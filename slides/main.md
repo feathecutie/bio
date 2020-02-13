@@ -6,7 +6,7 @@
 |-------------|-------------|
 |   | TATA box |
 |   | regulatory gene in promoter |
-|   | enhancer needed to activate polymerase |
+|   | enhancer needed to activate or increase rate of transcription |
 
 
 
