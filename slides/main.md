@@ -5,6 +5,7 @@
 | Prokaryotes | Eurkaryotes |
 |-------------|-------------|
 |             | TATA box    |
+|   | regulatory gene in promoter |
 
 
 
