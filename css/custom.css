@@ -1,5 +1,5 @@
 img {
-  filter: blur(20px) opacity(50%) !important;
+  filter: blur(50px) opacity(50%);
 }
 
 .nofilter {
