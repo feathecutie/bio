@@ -4,8 +4,9 @@
 
 | Prokaryotes | Eurkaryotes |
 |-------------|-------------|
-|             | TATA box    |
+|   | TATA box |
 |   | regulatory gene in promoter |
+|   | enhancer needed to activate polymerase |
 
 
 
